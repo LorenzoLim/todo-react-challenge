@@ -1,7 +1,6 @@
 import React from 'react';
 import '../App.css';
 
-
 import { Badge, Alert } from 'reactstrap';
 
 export default function TodoFunction (props) {
